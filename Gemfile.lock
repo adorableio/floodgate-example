@@ -1,5 +1,4 @@
 GEM
-  remote: https://zLj1AthQq5b8XKLrLo9x@gem.fury.io/bigtiger/
   remote: https://rubygems.org/
   specs:
     actionmailer (4.0.2)
@@ -38,7 +37,7 @@ GEM
     coffee-script-source (1.7.0)
     erubis (2.7.0)
     execjs (2.0.2)
-    floodgate (0.0.5)
+    floodgate (0.0.7)
     hike (1.2.3)
     i18n (0.6.9)
     jbuilder (1.5.3)
@@ -111,7 +110,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
-  floodgate (>= 0.0.5)
+  floodgate (>= 0.0.7)
   jbuilder (~> 1.2)
   jquery-rails
   pg
