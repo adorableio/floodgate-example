@@ -1,6 +1,7 @@
+source 'https://zLj1AthQq5b8XKLrLo9x@gem.fury.io/bigtiger/'
 source 'https://rubygems.org'
 
-gem 'floodgate'
+gem 'floodgate', '>= 0.0.4'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
