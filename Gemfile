@@ -5,7 +5,7 @@ ruby '2.0.0'
 gem 'rails', '4.0.2'
 
 gem 'coffee-rails', '~> 4.0.0'
-gem 'floodgate', '>= 0.0.7'
+gem 'floodgate', '>= 0.0.8'
 gem 'jbuilder', '~> 1.2'
 gem 'jquery-rails'
 gem 'pg'

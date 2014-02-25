@@ -20,6 +20,6 @@ module FloodgateExample
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
 
-    config.middleware.use Floodgate::Control
+    config.middleware.use Floodgate::Control, ENV['FLOODGATE_APP_ID'], ENV['FLOODGATE_API_TOKEN']
   end
 end
