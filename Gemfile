@@ -4,6 +4,7 @@ ruby '2.0.0'
 
 gem 'rails', '4.0.2'
 
+gem 'chamber'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'floodgate', '>= 0.0.9'
 gem 'jbuilder', '~> 1.2'
