@@ -2,17 +2,17 @@ source 'https://rubygems.org'
 
 ruby '2.0.0'
 
-gem 'rails', '4.0.2'
+gem 'rails', '4.0.3'
 
 gem 'chamber'
-gem 'coffee-rails', '~> 4.0.0'
+gem 'coffee-rails'
 gem 'floodgate', '>= 0.0.10'
-gem 'jbuilder', '~> 1.2'
+gem 'jbuilder'
 gem 'jquery-rails'
 gem 'pg'
-gem 'sass-rails', '~> 4.0.0'
+gem 'sass-rails'
 gem 'turbolinks'
-gem 'uglifier', '>= 1.3.0'
+gem 'uglifier'
 
 group :development, :test do
   gem 'jazz_hands'
