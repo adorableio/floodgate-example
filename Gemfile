@@ -6,7 +6,7 @@ gem 'rails', '4.0.3'
 
 gem 'chamber'
 gem 'coffee-rails'
-gem 'floodgate', '>= 0.0.11'
+gem 'floodgate', '>= 0.0.13'
 gem 'jbuilder'
 gem 'jquery-rails'
 gem 'pg'
