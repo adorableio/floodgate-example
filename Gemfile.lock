@@ -59,7 +59,7 @@ GEM
       multipart-post (~> 1.2.0)
     faraday_middleware (0.9.0)
       faraday (>= 0.7.4, < 0.9)
-    floodgate (0.0.14)
+    floodgate (0.0.15)
       faraday (~> 0.8.9)
       faraday_middleware (~> 0.9.0)
       hashie (~> 2.0.5)
@@ -176,7 +176,7 @@ PLATFORMS
 DEPENDENCIES
   chamber
   coffee-rails
-  floodgate (>= 0.0.14)
+  floodgate (>= 0.0.15)
   jazz_hands
   jbuilder
   jquery-rails
